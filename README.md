@@ -1,3 +1,6 @@
+
+![todo](https://github.com/DVISNAKO/todo-react-typescrips/assets/106438454/d95c74eb-f241-43c0-921f-fce670e6a7ad)
+
 #In this app I first time use typescript + react
 
 
